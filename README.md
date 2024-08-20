@@ -26,8 +26,6 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish1452&show_icons=true&locale=en&layout=compact" alt="ashish1452" /></p>
 
