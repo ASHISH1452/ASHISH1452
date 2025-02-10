@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
-<h3 align="center">I'm a Software Developer with expertise in Cyber Security Analyst, Penetration Testing, and DevOps, passionate about crafting seamless digital experiences from frontend to backend. With this background, I bring a unique perspective to my development projects, ensuring they're not only user-friendly but also fortified against potential threats. Considering my diverse skill set, I believe it's essential to showcase my work through a comprehensive portfolio. It not only highlights my proficiency in web development but also demonstrates my expertise in safeguarding digital assets and automating processes for efficient deployment and scaling.</h3>
+<h3 align="center">I'm a DevOps Engineer with expertise in Cloud Computing, Cloud Security, and Cybersecurity. I specialize in designing and implementing CI/CD pipelines, automating deployment processes, and securing cloud-native applications across AWS and other cloud platforms. My strong focus on cloud security ensures robust protection of digital assets while optimizing infrastructure for scalability and performance. With a security-first mindset and hands-on experience in DevOps practices, I deliver solutions that seamlessly integrate development and operations while fortifying them against evolving threats. My portfolio showcases projects that highlight my ability to deploy, monitor, and secure applications efficiently in dynamic environments."
+
+..</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
